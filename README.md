@@ -20,7 +20,7 @@ a few more promts for your Starship
 
 <details>
 <summary>Warp theme</summary>
-- Download a `**.yaml**` file from theme what do you liked 
+- Download a __.yaml__ file from theme what do you liked 
 </details>
 
 ## Preview
