@@ -13,14 +13,14 @@ a few more promts for your Starship
 ## 📦 Installation
 <details>
 <summary>Starship promt</summary>
-- Download a **.toml** file from theme what do you liked and put into your ~/.config/starship.toml
+- Download a '**.toml**' file from theme what do you liked and put into your ~/.config/starship.toml
 - Setup your configuration
 - You are breathtaking!
 </details>
 
 <details>
 <summary>Warp theme</summary>
-- Download a **.yaml** file from theme what do you liked 
+- Download a '**.yaml**' file from theme what do you liked 
 </details>
 
 ## Preview
