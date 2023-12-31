@@ -7,14 +7,14 @@ a few more promts for your Starship
 
 ### 💎 Requirements
 - [Starship](https://github.com/starship/starship) >= 1.16.0
-- [Warp](https://warp.dev) >= v0.2023.11.07.08.02.stable_00
+- [Warp](https://warp.dev) >= v0.2023.11
 
 ## 📦 Installation
 <details>
 <summary>Starship promt</summary>
-	- Download a **.toml** file from theme what do you liked and put into your ~/.config/starship.toml
-	- Setup your configuration
-	- You are breathtaking!
+	1. Download a **.toml** file from theme what do you liked and put into your ~/.config/starship.toml
+	2. Setup your configuration
+	3. You are breathtaking!
 </details>
 
 <details>
